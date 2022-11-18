@@ -1,2 +1,5 @@
-# Rating_component
-This a rating component design
+# Frontend Mentor - Interactive rating component
+
+![Design preview](./design/desktop-preview.jpg)
+
+## Welcome! 👋
